@@ -8,4 +8,4 @@ Atayev Perman, Group 12.
 
 # Building
 
-*[GITHUB](https://github.com/fpmi-tp2025/tpmp-gr12-lab2-task3-PermanAta777).
+[GITHUB](https://github.com/fpmi-tp2025/tpmp-gr12-lab2-task3-PermanAta777).
